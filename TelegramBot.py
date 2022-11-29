@@ -12,7 +12,7 @@ keys = {
     'фунт': 'GBP',
     'иена': 'JPY',
     'лира': 'TRY',
-    'евро': 'CHF',
+    'франк': 'CHF',
 }
 
 class ConvertionException(Exception):
